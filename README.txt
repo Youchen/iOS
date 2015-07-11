@@ -1,2 +1,2 @@
-This repo is my personal project for iOS.
-Just coding for fun! =)
+This repo is my personal interest to iOS.
+All Coded in Swift, just for fun! =)
